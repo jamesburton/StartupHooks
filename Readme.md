@@ -25,9 +25,12 @@ Assuming use of saving repo to `c:\Development\StartupHooks\` then the helper sc
 	* Use `set-debug-hook.bat` to assign the CodeConsultantsWelcomeStartupHook Debug dll
 	* Use `set-release-hook.bat` to assign the CodeConsultantsWelcomeStartupHook Release dll
 * Using `InvertedConsole`:
-	* Use `inverted-debug.bat` to assign the CodeConsultantsWelcomeStartupHook Debug dll
-	* Use `inverted-release.bat` to assign the CodeConsultantsWelcomeStartupHook Release dll
-* Use `clear-hooks.bat` to assign the CodeConsultantsWelcomeStartupHook Release dll
+	* Use `inverted-debug.bat` to assign the InvertedConsole Debug dll
+	* Use `inverted-release.bat` to assign the InvertedConsole Release dll
+* Using `TrackStartStop`:
+	* Use `startstop-debug.bat` to assign the TrackStartStop Debug dll
+	* Use `startop-release.bat` to assign the TrackStartStop Release dll
+* Use `clear-hooks.bat` to clear the hook assignment
 * Use `run.bat` to execute the `ConsoleApp` project
 
 #### References
