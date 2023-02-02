@@ -1,1 +1,1 @@
-SET "DOTNET_STARTUP_HOOKS=c:\Development\StartupHooks\TrackStartStop\bin\Release\net7.0\TrackStartStop.dll"
+SET "DOTNET_STARTUP_HOOKS=c:\Development\StartupHooks\TrackStartStop\bin\Release\netstandard2.0\TrackStartStop.dll"

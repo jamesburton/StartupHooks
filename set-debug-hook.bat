@@ -1,1 +1,1 @@
-SET "DOTNET_STARTUP_HOOKS=c:\Development\StartupHooks\CodeConsultantsWelcomeStartupHook\bin\Debug\net7.0\CodeConsultantsWelcomeStartupHook.dll"
+SET "DOTNET_STARTUP_HOOKS=c:\Development\StartupHooks\CodeConsultantsWelcomeStartupHook\bin\Debug\netstandard2.0\CodeConsultantsWelcomeStartupHook.dll"
