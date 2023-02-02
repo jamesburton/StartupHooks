@@ -1,1 +1,1 @@
-dotnet run --project ConsoleApp
+ConsoleApp\bin\Debug\net7.0\ConsoleApp.exe
